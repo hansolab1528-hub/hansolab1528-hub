@@ -230,3 +230,13 @@ Improve technology    → 🚀
 💭 "Build. Learn. Secure. Create."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:0f172a&height=120&section=footer"/> </div> ```
+
+## 🐍 Contribution Snake
+
+![GitHub Contribution Snake](https://raw.githubusercontent.com/hansolab1528-hub/hansolab1528-hub/gh-pages/github-contribution-grid-snake.svg)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hansolab1528-hub/hansolab1528-hub/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hansolab1528-hub/hansolab1528-hub/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/hansolab1528-hub/hansolab1528-hub/gh-pages/github-contribution-grid-snake.svg">
+</picture>
