@@ -267,13 +267,13 @@ I've gained exposure to professional environments involving:
 ## 🧠 What I'm Learning
 
 <pre>
-Cybersecurity       ███████████████░░░░░
-Python              ██████████████░░░░░░
-Web Development     █████████████░░░░░░░
-Networking          ████████████░░░░░░░░
-AI / ML             ███████████░░░░░░░░░
-UI / UX             ████████████░░░░░░░░
-Cloud & DevOps      ████████░░░░░░░░░░░░
+Cybersecurity       ██████████████████
+Networking          ██████████████████
+Python              █████████████████
+Web Development     █████████████
+UI / UX             ████████████
+AI / ML             █████████
+Cloud & DevOps      ████████
 </pre>
 
 **Always learning. Always building. Always improving. 🚀**
