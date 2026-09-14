@@ -299,7 +299,7 @@ I'm especially interested in creating technology that can:
   <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/brij.hansola2815/">
+<a href="https://www.instagram.com/brijmhansola2815?stkn=OGM4MTYydTBoOThr/">
   <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
