@@ -264,19 +264,9 @@ I've gained exposure to professional environments involving:
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hansolab1528-hub&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
-
----
-
 ## 🧠 What I'm Learning
 
-```text
+<pre>
 Cybersecurity       ███████████████░░░░░
 Python              ██████████████░░░░░░
 Web Development     █████████████░░░░░░░
@@ -284,31 +274,65 @@ Networking          ████████████░░░░░░░░
 AI / ML             ███████████░░░░░░░░░
 UI / UX             ████████████░░░░░░░░
 Cloud & DevOps      ████████░░░░░░░░░░░░
+</pre>
 
-Always learning. Always building. Always improving. 🚀
+**Always learning. Always building. Always improving. 🚀**
 
-🏆 Goals
+---
 
-My long-term goal is to build a career where Cybersecurity, AI and Software Development come together.
+## 🏆 Goals
+
+My long-term goal is to build a career where **Cybersecurity, AI, and Software Development** come together.
 
 I'm especially interested in creating technology that can:
 
-🛡️ Detect threats
-🤖 Automate security
-💡 Solve real problems
-🔐 Protect users
-🚀 Improve technology
+- 🛡️ Detect threats
+- 🤖 Automate security
+- 💡 Solve real problems
+- 🔐 Protect users
+- 🚀 Improve technology
 
-🌎 Languages
+---
 
-| Language      | Level      |
-| ------------- | -----------|
-| 🇬🇧 English  | Professional |
-| 🇮🇳 Hindi    | Fluent       |
-| 🇮🇳 Gujarati | Fluent       |
-| 🇹🇿 Swahili  | Familiar     |
-📫 Let's Connect
-<div align="center"> <a href="https://brijhansola-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/brij-hansola-10b492270/"> <img src="https://img.shields.io/badge/LinkedIn-Brij_Hansola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:hansola.b1528@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.instagram.com/brij.hansola2815/"> <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </div>
+## 🌎 Languages
+
+| Language | Level |
+|----------|-------|
+|  English | Professional |
+|  Hindi | Fluent |
+|  Gujarati | Fluent |
+|  Swahili | Familiar |
+
+---
+
+## 📫 Let's Connect
+
 <div align="center">
-💭 "Build. Learn. Secure. Create."
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:0f172a&height=120&section=footer"/> </div> ```
+
+<a href="https://brijhansola-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/brij-hansola-10b492270/">
+  <img src="https://img.shields.io/badge/LinkedIn-Brij_Hansola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:hansola.b1528@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/brij.hansola2815/">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Build. Learn. Secure. Create."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:1e3a5f,100:0f172a&height=120&section=footer"/>
+
+</div>
