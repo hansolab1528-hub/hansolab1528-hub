@@ -222,18 +222,6 @@ I've gained exposure to professional environments involving:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hansolab1528-hub&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hansolab1528-hub&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
