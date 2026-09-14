@@ -234,16 +234,6 @@ I've gained exposure to professional environments involving:
 
 ---
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=hansolab1528-hub&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
