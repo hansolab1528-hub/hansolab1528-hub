@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/brij-hansola-10b492270/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hansola.b1528@gmail.com">
+  <a href="mailto:nbmhansola@outlook.in">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -295,8 +295,8 @@ I'm especially interested in creating technology that can:
   <img src="https://img.shields.io/badge/LinkedIn-Brij_Hansola-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:hansola.b1528@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:nbrijmhansola@outlook.in">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=Email&logoColor=white"/>
 </a>
 
 <a href="https://www.instagram.com/brijmhansola2815?stkn=OGM4MTYydTBoOThr/">
